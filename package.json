@@ -1,0 +1,10 @@
+{
+  "name": "@2waymessage/message-formats",
+  "version": "1.0.0",
+  "main": "format.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+  }
+}
